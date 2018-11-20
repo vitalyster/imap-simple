@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "iconv-lite": "~0.4.24",
-    "imap": "^0.8.19",
+    "imap": "https://github.com/vitalyster/node-imap.git#decode",
     "nodeify": "^1.0.1",
     "quoted-printable": "^1.0.1",
     "utf8": "^3.0.0"
